@@ -1,0 +1,17 @@
+#main-index {
+    width: 100%;
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+.FacturasTableDiv {
+    width: 40%;
+    float:left; /* add this */
+}
+.FacturaFormDiv {
+    border-left: 0.2em solid black;
+    padding: 2em;
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+}
+
+table{
+
+}
